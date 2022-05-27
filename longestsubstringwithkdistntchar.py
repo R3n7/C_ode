@@ -16,3 +16,4 @@ for winend in range(len(s)):
         winstart+=1
     maxlength = max(winend-winstart+1,maxlength)
 print(maxlength)
+#same for fruits into baskets where k=2
